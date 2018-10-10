@@ -1,0 +1,2 @@
+model_checkpoint_path: "F:\\Aegis\\Applications - Job\\Pivotchain Solutions\\multi_label_assignment.ckpt"
+all_model_checkpoint_paths: "F:\\Aegis\\Applications - Job\\Pivotchain Solutions\\multi_label_assignment.ckpt"
